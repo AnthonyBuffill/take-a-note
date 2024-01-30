@@ -13,7 +13,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Questions](#questions)
+- [Questions & Deployment](#questions)
 - [Screenshot](#screen-shot)
 
 ## Installation
@@ -90,12 +90,14 @@ acceptable behavior and will take appropriate and fair corrective action in
 response to any behavior that they deem inappropriate, threatening, offensive,
 or harmful.
 
-## Questions
+## Questions and Deployment
 
 
 For more information click the links below to my Heroku repository as well as my github profile:
 
-heroku repository: 
+heroku repository: https://dashboard.heroku.com/apps/save-some-notes
+
+heroku deployed app: https://save-some-notes-0d29a56551f7.herokuapp.com/
 
 github profile : https://github.com/Anthonybuffill  
 
