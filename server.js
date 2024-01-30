@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 const fs = require('fs');
-const notes = require('./Develop/DEV/db/db.json');
+const notes = require('./db/db.json');
 const PORT = process.env.PORT || 3001;
 const { v4: uuidv4 } = require('uuid');
 
