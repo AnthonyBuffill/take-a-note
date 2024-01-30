@@ -108,6 +108,4 @@ Or, email me at : Abuffill@outlook.com
 
 
 
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
     
