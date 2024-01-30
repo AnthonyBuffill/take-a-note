@@ -104,6 +104,8 @@ Or, email me at : Abuffill@outlook.com
 
 ## SCREEN SHOT
 
+![Screen Shot 2024-01-29 at 9 32 36 PM](https://github.com/AnthonyBuffill/take-a-note/assets/153314977/6f037d2e-c576-4e4c-98df-1da641751de9)
+
 
 
 
